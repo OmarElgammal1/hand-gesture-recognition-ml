@@ -8,9 +8,22 @@ Students will gain hands-on experience in data preprocessing, visualization, mac
 
 ## Dataset Details:
 The HaGRID dataset contains 18 classes of hand gestures, including:  
-![Picture1.png](attachment:Picture1.png)
+![Picture1.png](assets/Picture1.png)
 
 
 Each gesture is represented by a set of hand landmarks (21 landmarks per hand) extracted using MediaPipe. The CSV file will contain these landmarks(x,y,z location) along with their corresponding gesture labels.  
 
-![Picture2.png](attachment:Picture2.png)
+![Picture2.png](assets/Picture2.png)
+
+## MLFlow Experiments:
+![MLFlow screenshot](assets/image.png)
+
+
+![MLFlow screenshot](assets/image-1.png)
+
+
+![MLFlow screenshot](assets/image-2.png)
+
+![MLFlow screenshot](assets/image-3.png)
+
+![MLFlow screenshot](assets/image-4.png)
