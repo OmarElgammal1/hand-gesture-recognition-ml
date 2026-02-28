@@ -15,6 +15,9 @@ Each gesture is represented by a set of hand landmarks (21 landmarks per hand) e
 
 ![Picture2.png](assets/Picture2.png)
 
+## Output Video:
+[Google Drive - Gesture Recognition Output.mp4](https://drive.google.com/file/d/148F5odFyvRgWYuDn_o8wLK9gp02ysvcz/view)
+
 ## MLFlow Experiments:
 ![MLFlow screenshot](assets/image.png)
 
